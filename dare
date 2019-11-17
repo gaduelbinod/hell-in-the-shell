@@ -1,8 +1,0 @@
-#include<iostream.h>
-int main() 
-{
- int a,b;
- cout<<"can be into the hell";
- cin>>a;
- cout<<"&a";
-}
